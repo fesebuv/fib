@@ -1,0 +1,26 @@
+{
+  "name": "fesebuv-fib",
+  "version": "0.0.1",
+  "description": "fibonacci sequence implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fesebuv/fib.git"
+  },
+  "keywords": [
+    "fib",
+    "fibonacci"
+  ],
+  "author": "Felipe S. Buenano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fesebuv/fib/issues"
+  },
+  "homepage": "https://github.com/fesebuv/fib#readme",
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  }
+}
